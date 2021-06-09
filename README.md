@@ -11,7 +11,4 @@ in association with the Met Office and universities of Exeter, Leeds and UCL. Re
 together to produce cutting-edge research on topic ranging from climate change to oceanography, biogeochemistry, and
 more, using data from the Climate Model Intercomparison Project (CMIP6).
 
-<a href="https://www.youtube.com/watch?v=lIanN0DI9R8" title="Watch video" style="display: inline-block; position: relative">
-    <img alt="Thumbnail of Thinking in spreadsheets video" src="https://i1.ytimg.com/vi/lIanN0DI9R8/hqdefault.jpg">
-    <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 1.5rem; background: #fff; padding: 1rem; border: 2px solid">Play ▶</span>
-</a>
+[![Thumbnail of Thinking in spreadsheets video](https://i1.ytimg.com/vi/lIanN0DI9R8/hqdefault.jpg)](https://www.youtube.com/watch?v=lIanN0DI9R8 "Watch video")
